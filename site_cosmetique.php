@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Site e-commerce</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" />
+  <link rel="stylesheet" href="siteWeb-cosmetique.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/siteWeb-cosmetique.css" />
 </head>
 <body>
   <!-- Barre de navigation -->
@@ -26,11 +26,24 @@
     </div>
   </nav>
   <!-- Fin de la barre de navigation -->
+   <!-- Header avec la vidéo en arrière-plan -->
+  <header class="video-container">
+    <video autoplay loop muted class="background-video">
+      <source src="WhatsApp Video 2024-03-29 at 15.53.20.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <!-- Contenu du header -->
+    <div class="header-content">
+      <!--<h1>C'est votre boutique, votre chez-vous.</h1>
+      <button>Naviguer <i class="fas fa-paper-plane"></i></button>-->
+    </div>
+    <!-- Fin du contenu du header -->
+  </section>
   
   <!-- Header -->
    <header>
      <h1>C'est votre boutique, votre chez-vous.</h1>
-     <button>Naviguer <i class="fas fa-paper-plane"></i></button>
+     <!-- <button>Naviguer <i class="fas fa-paper-plane"></i></button> -->
    </header>
   <!-- Fin du header -->
   
@@ -42,7 +55,7 @@
     <div class="cards">
       
       <div class="card">
-        <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Flabocreation.com%2Ffabrication-de-produits-cosmetiques-ingredients-precieux%2F&psig=AOvVaw1RxyTweSLeZn-rvzy0t31E&ust=1712745610240000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPic9N_4tIUDFQAAAAAdAAAAABAE">
+        <img src="unknown-2.jpg">
         <div class="card-header">
           <h4 class="title">Cosmetiques</h4>
           <h4 class="price">25€</h4>
@@ -53,7 +66,7 @@
       </div>
       
       <div class="card">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ophylor.com%2F&psig=AOvVaw1RxyTweSLeZn-rvzy0t31E&ust=1712745610240000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPic9N_4tIUDFQAAAAAdAAAAABAJ">
+        <img src="Unknown 5.jpg">
         <div class="card-header">
           <h4 class="title">Produit</h4>
           <h4 class="price">30€</h4>
@@ -64,7 +77,7 @@
       </div>
       
       <div class="card">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fzh-partners.com%2FBio-Tout-ce-qu-il-Faut-Savoir-6833438.html&psig=AOvVaw1RxyTweSLeZn-rvzy0t31E&ust=1712745610240000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPic9N_4tIUDFQAAAAAdAAAAABAQ">
+        <img src="Unknown-3.jpg">
         <div class="card-header">
           <h4 class="title">Produit</h4>
           <h4 class="price">39€</h4>
@@ -77,12 +90,6 @@
      </div>
     <!-- Fin de toutes les cartes -->
     
-    <!-- Video de presentation -->
-    <div class="video">
-      <iframe src="WhatsApp Video 2024-03-29 at 15.53.20.mp4" allowfullscreen></iframe>
-    </div>
-    <!-- Fin de la video de presentation -->
-  </section>
   <!-- Fin de la section principale -->
   
   <!-- Pied de page -->
