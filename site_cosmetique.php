@@ -3,20 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Créer un site e-commerce</title>
+  <title>Site e-commerce</title>
   <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/commerce.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" />
 </head>
 <body>
   <!-- Barre de navigation -->
   <nav>
-    <h1>Ecome</h1>
+    <h1></h1>
     <div class="onglets">
       <p class="link">Nouveautés</p>
-      <p class="link">Homme</p>
-      <p class="link">Femme</p>
-      <p class="link">Enfant</p>
-      <p class="link">Cadeaux</p>
+      <p class="link">Sérums</p>
+      <p class="link">Crèmes</p>
+      <p class="link">Nettoyant</p>
+      <p class="link">Conseils</p>
       <form>
         <input type="search" placeholder="Rechercher">
       </form>
@@ -42,35 +42,35 @@
     <div class="cards">
       
       <div class="card">
-        <img src="https://static.nike.com/a/images/f_auto/q_auto:eco/t_PDP_864_v1/0697fd03-09fd-4b3b-be0b-11b009c671d9/short-en-molleton-sportswear-pour-z5Kgjx.jpg">
+        <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Flabocreation.com%2Ffabrication-de-produits-cosmetiques-ingredients-precieux%2F&psig=AOvVaw1RxyTweSLeZn-rvzy0t31E&ust=1712745610240000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPic9N_4tIUDFQAAAAAdAAAAABAE">
         <div class="card-header">
-          <h4 class="title">Short Nike</h4>
-          <h4 class="price">199$</h4>
+          <h4 class="title">Cosmetiques</h4>
+          <h4 class="price">25€</h4>
         </div>
         <div class="card-body">
-          <p>Short moulant pour homme</p>
+          <p>Produits</p>
         </div>
       </div>
       
       <div class="card">
-        <img src="https://static.nike.com/a/images/f_auto/q_auto:eco/t_PDP_864_v1/eric5lwitzffpoisq0rj/chaussure-blazer-mid-77-vintage-pour-pMfjs8.jpg">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ophylor.com%2F&psig=AOvVaw1RxyTweSLeZn-rvzy0t31E&ust=1712745610240000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPic9N_4tIUDFQAAAAAdAAAAABAJ">
         <div class="card-header">
-          <h4 class="title">Paire de chaussures stylées</h4>
-          <h4 class="price">69$</h4>
+          <h4 class="title">Produit</h4>
+          <h4 class="price">30€</h4>
         </div>
         <div class="card-body">
-          <p>Des paires de chaussures stylées pour femme</p>
+          <p>Produits</p>
         </div>
       </div>
       
       <div class="card">
-        <img src="https://static.nike.com/a/images/f_auto/q_auto:eco/t_PDP_864_v1/abb537eb-0e70-4e1f-903e-ec46b8657c0d/short-de-training-en-tissu-fleece-dri-fit-pour-n97b2F.jpg">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fzh-partners.com%2FBio-Tout-ce-qu-il-Faut-Savoir-6833438.html&psig=AOvVaw1RxyTweSLeZn-rvzy0t31E&ust=1712745610240000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPic9N_4tIUDFQAAAAAdAAAAABAQ">
         <div class="card-header">
-          <h4 class="title">Short pour courir</h4>
-          <h4 class="price">39$</h4>
+          <h4 class="title">Produit</h4>
+          <h4 class="price">39€</h4>
         </div>
         <div class="card-body">
-          <p>Sport pour courir en plain air pour homme</p>
+          <p>Produit</p>
         </div>
       </div>
       
@@ -79,7 +79,7 @@
     
     <!-- Video de presentation -->
     <div class="video">
-      <iframe src="https://www.youtube.com/embed/2COSkxxOtXY" allowfullscreen></iframe>
+      <iframe src="WhatsApp Video 2024-03-29 at 15.53.20.mp4" allowfullscreen></iframe>
     </div>
     <!-- Fin de la video de presentation -->
   </section>
@@ -87,7 +87,7 @@
   
   <!-- Pied de page -->
   <footer>
-    <p>&copy; Contactez-nous au 06 98 87 82 00</p>
+    <p>&copy; Contactez-nous</p>
     <div class="social-media">
       <p><i class="fab fa-facebook-f"></i></p>
       <p><i class="fab fa-twitter"></i></p>
